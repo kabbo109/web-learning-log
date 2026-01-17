@@ -1,2 +1,21 @@
-# web-learning-log
-A simple browser-only project for beginners to write learning logs, track progress, and practice daily GitHub commits.
+# Web Learning Log
+
+This is a very easy project for beginners.
+
+You can use this repository to:
+- Write learning logs
+- Track daily progress
+- Practice editing files
+- Build a habit of GitHub commits
+
+How to use:
+1. Open any file
+2. Add a small log entry
+3. Save the file
+4. Commit your change
+
+Goal:
+Learn something small every day.
+
+Notes:
+Write your daily learning logs below.
